@@ -1,2 +1,0 @@
-# toturial
-教程
